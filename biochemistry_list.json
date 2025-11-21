@@ -1,52 +1,7 @@
 [
   {
-    "title": "Introduction of Sketchware Pro Class 1",
-    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5EkrW621ZwVTU-9JXhUuHIKeFnGOwqNHmHYmIyxgrb02zW8CpZhcu_HE&s=10",
+    "title": "Glycolysis",
+    "file_link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5EkrW621ZwVTU-9JXhUuHIKeFnGOwqNHmHYmIyxgrb02zW8CpZhcu_HE&s=10",
     "video_url": "https://youtu.be/KJQEiN9DbyM?si=YgnLmCBQqiJoDLfh"
-  },
-  {
-    "title": "How to create new project in Sketchware Class 2",
-    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5EkrW621ZwVTU-9JXhUuHIKeFnGOwqNHmHYmIyxgrb02zW8CpZhcu_HE&s=10",
-    "video_url": "https://youtu.be/G99FWksa2yU?si=PbT0IarCojHoPY5g"
-  },
-  {
-    "title": "How to create new page (Activity), how to use Intent, Timer Component in Sketchware Class 3",
-    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5EkrW621ZwVTU-9JXhUuHIKeFnGOwqNHmHYmIyxgrb02zW8CpZhcu_HE&s=10",
-    "video_url": "https://youtu.be/lyNBOWBzjv0?si=G-MmS19bZgQUeshs"
-  },
-  {
-    "title": "How to create Login Page in Sketchware Class 4",
-    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5EkrW621ZwVTU-9JXhUuHIKeFnGOwqNHmHYmIyxgrb02zW8CpZhcu_HE&s=10",
-    "video_url": "https://youtu.be/5Xu6N1zaEyo?si=FxR653dJcwPXOmth"
-  },
-  {
-    "title": "Padding, Margin, Weight, Gravity  in Sketchware Class 5",
-    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5EkrW621ZwVTU-9JXhUuHIKeFnGOwqNHmHYmIyxgrb02zW8CpZhcu_HE&s=10",
-    "video_url": "https://youtu.be/wmTwBRlufaU?si=C5Xm0hVX7vRNuLbg"
-  },
-  {
-    "title": "Login Ui parr 2 in Sketchware Class 6",
-    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5EkrW621ZwVTU-9JXhUuHIKeFnGOwqNHmHYmIyxgrb02zW8CpZhcu_HE&s=10",
-    "video_url": "https://youtu.be/BU7LFYM6AKo?si=b14ieaOl8AoATMvc"
-  },
-    {
-    "title": "Login Ui Complete video in Sketchware Class 7",
-    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5EkrW621ZwVTU-9JXhUuHIKeFnGOwqNHmHYmIyxgrb02zW8CpZhcu_HE&s=10",
-    "video_url": "https://youtu.be/bYJiSgJjjT4?si=WRlbdgSPEx4BUmuH"
-    },
-  {
-    "title": "How to create Server Class 8",
-    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5EkrW621ZwVTU-9JXhUuHIKeFnGOwqNHmHYmIyxgrb02zW8CpZhcu_HE&s=10",
-    "video_url": "https://youtu.be/y8VZ_1nNgLc?si=QGZobV2et-PL43zZ"
-  },
-  {
-    "title": "How to connect app from Server Class 9",
-    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5EkrW621ZwVTU-9JXhUuHIKeFnGOwqNHmHYmIyxgrb02zW8CpZhcu_HE&s=10",
-    "video_url": "https://youtu.be/Xf_WphxMOTg?si=bySzkau5UUw0O0O-"
-  },
-  {
-    "title": "How to implement Google sign in  Class 10",
-    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5EkrW621ZwVTU-9JXhUuHIKeFnGOwqNHmHYmIyxgrb02zW8CpZhcu_HE&s=10",
-    "video_url": "https://youtu.be/byr4VVf4EeQ?si=-Pj7kn93-EKmzIpV"
   }
 ]
